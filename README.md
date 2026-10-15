@@ -22,7 +22,7 @@ Simulation
 This project is developed and tested using Wokwi.
 
 https://wokwi.com/projects/477867980842950657
-for simulation click the link
+for simulation
 
 Objective
 
