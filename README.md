@@ -20,6 +20,7 @@ The ultrasonic sensor measures the distance between the sensor and an object. Th
 Simulation
 
 This project is developed and tested using Wokwi.
+
 https://wokwi.com/projects/477867980842950657
 for simulation click the above link
 
